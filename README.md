@@ -38,5 +38,12 @@ Kelas  : E
 
 - Link videonya ada <a href="blank">disini</a>
 
-## 🕷️ Project 4 - Custom CMD environment
+## 🕷️ Project 5 - Custom CMD environment
+- Link videonya ada <a href="blank">disini</a>
+
+## 🕷️ Project 6 - Laporan hasil dokumentasi
 - Link videonya ada <a href="blank">disini</a> 
+
+> [!CAUTION]
+>  👨‍💻 Dosen Pengampu
+> - Zulhair Zidan Dj. Tamu., S.Kom, M.Kom
