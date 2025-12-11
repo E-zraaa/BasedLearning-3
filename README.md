@@ -15,7 +15,7 @@ Kelas  : E
 
 ## 📑 List Tugas
 > - [ ] <a href="https://youtu.be/zJIsKLSCma4?si=zQzZeIATeBRejqHl">Project 1-5</a>
-> - [ ] <a href="blank">Project 6</a>
+> - [ ] <a href="https://youtu.be/GSJBTuXPbzc?si=L7eG1wTe08fvTZxj">Project 6</a>
 
 
 ## 🕷️ Project 1-5 - Praktik CMD Windows
@@ -24,7 +24,7 @@ Kelas  : E
 
 
 ## 🕷️ Project 6 - Laporan hasil dokumentasi
-- Link videonya ada <a href="blank">disini</a> 
+- Link videonya ada <a href="https://youtu.be/GSJBTuXPbzc?si=L7eG1wTe08fvTZxj">disini</a> 
 
 > [!CAUTION]
 >  👨‍💻 Dosen Pengampu
