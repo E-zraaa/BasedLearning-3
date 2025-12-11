@@ -14,32 +14,14 @@ Kelas  : E
 
 
 ## 📑 List Tugas
-> - [ ] <a href="blank">Project 1</a>
-> - [ ] <a href="blank">Project 2</a>
-> - [ ] <a href="blank">Project 3</a>
-> - [ ] <a href="blank">Project 4</a>
-> - [ ] <a href="blank">Project 5</a>
+> - [ ] <a href="https://youtu.be/zJIsKLSCma4?si=zQzZeIATeBRejqHl">Project 1-5</a>
 > - [ ] <a href="blank">Project 6</a>
 
 
-## 🕷️ Project 1 - Sistem Manajemen file pribadi
+## 🕷️ Project 1-5 - Praktik CMD Windows
 
 - Link videonya ada <a href="blank">disini</a>
 
-## 🕷️ Project 2 - Network diagnostic tool
-
-- Link videonya ada <a href="blank">disini</a>
-
-## 🕷️ Project 3 - Backup automation script 
-
-- Link videonya ada <a href="blank">disini</a>
-
-## 🕷️ Project 4 - System health check
-
-- Link videonya ada <a href="blank">disini</a>
-
-## 🕷️ Project 5 - Custom CMD environment
-- Link videonya ada <a href="blank">disini</a>
 
 ## 🕷️ Project 6 - Laporan hasil dokumentasi
 - Link videonya ada <a href="blank">disini</a> 
