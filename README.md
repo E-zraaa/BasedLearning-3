@@ -20,7 +20,7 @@ Kelas  : E
 
 ## 🕷️ Project 1-5 - Praktik CMD Windows
 
-- Link videonya ada <a href="blank">disini</a>
+- Link videonya ada <a href="https://youtu.be/zJIsKLSCma4?si=zQzZeIATeBRejqHl">disini</a>
 
 
 ## 🕷️ Project 6 - Laporan hasil dokumentasi
